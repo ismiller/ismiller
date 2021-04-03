@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi! Nice to see you.
+* * *
+Welcome to my page!  
+I'm Ivan Miller, junior c# .net developer from  Novosibirsk, Russia.  
+#### Basic skills I currently have:  `C#` `.NET 5.0` `Entity Framework` `ASP.NET Core MVC` `LINQ` `WPF` `UWP`
 
 <!--
 **ismiller/ismiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
